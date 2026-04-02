@@ -113,5 +113,5 @@ uv run pytest tests/unit/ -v
 
 对 CC 源码还原或 Agent Runtime 感兴趣可以扫二维码，进 CC 讨论群：
 
-<img src="assets/wechat.jpg" width="300">
+<img src="assets/wechat.png" width="300">
 
